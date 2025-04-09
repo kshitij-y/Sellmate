@@ -1,0 +1,6 @@
+[submodule "Sellmate-FE"]
+	path = Sellmate-FE
+	url = git@github.com:kshitij-y/Sellmate-FE.git
+[submodule "Sellmate-BE"]
+	path = Sellmate-BE
+	url = git@github.com:kshitij-y/Sellmate-BE.git
